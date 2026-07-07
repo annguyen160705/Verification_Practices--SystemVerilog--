@@ -1,5 +1,5 @@
 # vsim -c -do "run -all; quit" -l log.txt logic_test 
-# Start time: 12:20:10 on Jul 06,2026
+# Start time: 10:48:10 on Jul 07,2026
 # Loading sv_std.std
 # Loading work.logic_test
 # run -all
@@ -7,5 +7,5 @@
 # my_data = 0xb en=x
 # my_data = 0xb en=x
 #  quit
-# End time: 12:20:11 on Jul 06,2026, Elapsed time: 0:00:01
+# End time: 10:48:11 on Jul 07,2026, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
